@@ -1,4 +1,7 @@
-/input/*.pdf
-/output/*.json
-__pycache__/
-*.pyc
+# Ignore all PDFs except in input/
+*.pdf
+!input/*.pdf
+
+# Ignore all JSONs except in output/
+*.json
+!output/*.json
