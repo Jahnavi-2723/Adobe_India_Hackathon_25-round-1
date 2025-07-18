@@ -1,0 +1,4 @@
+/input/*.pdf
+/output/*.json
+__pycache__/
+*.pyc
