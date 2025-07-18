@@ -1,4 +1,4 @@
-# multi-ligual
+# multi-lingual
 import json
 import os
 from collections import Counter
