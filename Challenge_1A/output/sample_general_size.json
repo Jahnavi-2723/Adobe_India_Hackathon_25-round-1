@@ -1,0 +1,47 @@
+{
+  "title": "AI and Society",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "1. Overview of AI",
+      "page": 1,
+      "lang": "English (en)"
+    },
+    {
+      "level": "H2",
+      "text": "1.1 Evolution",
+      "page": 1,
+      "lang": "French (fr)"
+    },
+    {
+      "level": "H3",
+      "text": "1.1.1 Key Milestones",
+      "page": 1,
+      "lang": "English (en)"
+    },
+    {
+      "level": "H1",
+      "text": "2. Impact on Employment",
+      "page": 2,
+      "lang": "English (en)"
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Automation",
+      "page": 2,
+      "lang": "Italian (it)"
+    },
+    {
+      "level": "H3",
+      "text": "2.1.1 Case Studies",
+      "page": 2,
+      "lang": "Afrikaans (af)"
+    },
+    {
+      "level": "H3",
+      "text": "2.1.2 Future Trends",
+      "page": 2,
+      "lang": "German (de)"
+    }
+  ]
+}
