@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-27T23:41:38.731792"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "South of France - Cuisine",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "South of France - Traditions and Culture",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "South of France - Traditions and Culture",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "South of France - Cuisine",
+      "importance_rank": 4,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "South of France - Traditions and Culture",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": " The South of France is home to many iconic dishes that you must try during your visit . Bouillabaisse is a traditional fish stew from Marseille . Ratatouille is a vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, and onions .",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": " The Course Camarguaise is a traditional bullfighting sport unique to the Camargue region . The South of France is renowned for its wine production . Provençal cuisine reflects the region's agricultural heritage and its emphasis on simple, flavorful cooking .",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": " Truﬄes, often called \"black diamonds,\" are a prized delicacy in the South of France . Lavender is synonymous with Provence, and the region's lavender fields are a major attraction . The South has a rich tradition of pottery and ceramics, with towns like Vallauris and Biot being renowned for their craftsmanship .",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": " The South of France is renowned for its wine regions, including Provence and Languedoc . Visit local markets such as the Cours Saleya Market in Nice or the Marché Forville in Cannes to sample fresh produce, cheeses and charcuterie .",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": " The Provençal language, also known as Occitan, has been a significant part of the cultural identity of the South of France . It is still preserved in literature, music, and local expressions . The Carnival of Nice is one of the most famous carnivals in the world .",
+      "page_number": 2
+    }
+  ]
+}

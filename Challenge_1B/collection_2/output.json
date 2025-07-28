@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T08:49:09.969446"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Learn Acrobat - Generative AI_1",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Learn Acrobat - Generative AI_1",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Learn Acrobat - Generative AI_1",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Learn Acrobat - Generative AI_1",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Learn Acrobat - Request e-signatures_2",
+      "importance_rank": 5,
+      "page_number": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": " Generative AI features in Acrobat and Acrobat Reader support multiple document types, including PDFs, DOCX, PPTX, TXT, and RTF files . The capabilities improve comprehension and save time across various document types .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": " This FAQ addresses Adobe’s content usage and handling practices specific to improving generative AI capabilities in Acrobat and Adobe Acrobat Reader . The technology is still evolving and not perfect, not all ipientanswers are helpful or accurate . We will continue to  harness the power of this new technology responsibly .",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": " Content is stored for 30 days in an encrypted, siloed, Adobe-controlled environment  with strict access controls . Content is only retained for . purposes that do not include training a Large Language Model (“LLM”) Examples of product improvement include improving the operability of generative AI in Acrobat .",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": " AI Assistant is also available on phones through Acrobat mobile apps (iOS and Android) It isn't available on iPad or Android tablets . Generative AI features in Acrobat and Acrobat Reader are turned on by default .",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": " Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML forms . XML digital signatures ensure integrity, authentication, and non-repudiation in documents . XML signatures only have two data verification states, valid and invalid . The invalid state is called when a user alters the XML-signed content .",
+      "page_number": 10
+    }
+  ]
+}
