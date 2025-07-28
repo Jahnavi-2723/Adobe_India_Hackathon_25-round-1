@@ -1,8 +1,3 @@
-Here's your updated `README.md`, now including **Docker usage**, the switch to `main.py`, and reflecting your `INPUT_DIR` flexibility.
-
----
-
-```markdown
 # 📄 Persona-Driven Document Intelligence
 
 A lightweight, domain-agnostic system that extracts and summarizes the most relevant sections from a collection of PDFs based on a user’s **persona** and their **job-to-be-done**.
@@ -110,7 +105,7 @@ collection_X/output.json
 ### 🔧 Step 1: Build Docker Image
 
 ```bash
-docker build -t adobe_hack_round1b:v4 .
+docker build -t adobe_hack_round1b:final .
 ```
 
 ### ▶️ Step 2: Run on a collection
@@ -118,10 +113,7 @@ docker build -t adobe_hack_round1b:v4 .
 Replace `collection_2` with your target folder:
 
 ```bash
-docker run --rm \
-  -v "%cd%/collection_2:/app/collection_2" \
-  -e INPUT_DIR="/app/collection_2" \
-  adobe_hack_round1b:v4
+docker run --rm \-v "%cd%/collection_2:/app/collection_2" \-e INPUT_DIR="/app/collection_2" \adobe_hack_round1b:final
 ```
 
 > ✅ The script will automatically read from `INPUT_DIR/input.json` and write to `INPUT_DIR/output.json`.
